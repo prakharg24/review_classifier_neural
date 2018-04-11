@@ -1,0 +1,13 @@
+Discussed with ->
+Saket Dingliwal, Rahul Agarwal, Rohit Raj
+
+Link to download the model zip file ->
+https://owncloud.iitd.ac.in/owncloud/index.php/s/Ri7f86iqGkLti8H/download
+
+Sir/ma'am,
+
+My code is actually an ensemble of 9 neural models trained on different training sets. I started by making a dictionary for each model individually while training and by the time I realised that it was stupid to do the same and the whole model should have a common dictionary, it was too close to the deadline to retrain the models that I have already trained and so I had to go forward with what I had. What my model right now does is run 9 different neural models for each training example and then predict its result accordingly.
+
+In terms of absolute time, it will take around 5 hours to test on a data of size audio_dev.json that you gave us (1,00,000 reviews). I know that this is not considered resonalable but the code is making progress and will predict labels so please do let it run over the whole test case to check the quality of the model and then deduct the marks for too much time as you think fit.
+
+Thank You

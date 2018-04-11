@@ -1,0 +1,1 @@
+python3 neural_fnl.py $1 $2
